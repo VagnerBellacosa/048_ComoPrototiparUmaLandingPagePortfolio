@@ -37,7 +37,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Como prototipar uma landing page de um portfólio](https://web.dio.me/lab/como-prototipar-uma-landing-page-de-um-portfolio/learning/2268ba0e-1b46-49df-ab16-3e30712e0ac4)[Projeto figma](https://web.dio.me/lab/como-prototipar-uma-landing-page-de-um-portfolio/learning/28e4d14d-6683-467a-b9b1-b67350f3b500)
+- [Como prototipar uma landing page de um portfólio](https://web.dio.me/lab/como-prototipar-uma-landing-page-de-um-portfolio/learning/2268ba0e-1b46-49df-ab16-3e30712e0ac4)
+- [Projeto figma](https://web.dio.me/lab/como-prototipar-uma-landing-page-de-um-portfolio/learning/28e4d14d-6683-467a-b9b1-b67350f3b500)
 
 
 
